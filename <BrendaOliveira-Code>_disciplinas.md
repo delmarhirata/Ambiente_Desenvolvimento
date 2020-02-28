@@ -1,0 +1,3 @@
+- DevOps: Auxiliar na estrutura do programa.
+- SQL: Vai nos ajudar a compreender a ferramenta SQL e criar bancos.
+- EngSoftware: Auxiliar na criação do projeto e a encontrar o público alvo através de pesquisa e estudos.
