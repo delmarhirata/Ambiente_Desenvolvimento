@@ -7,4 +7,4 @@ Nome dos integrantes do Grupo:
 - Delmar Hirata: 1901786
 - Karime Andrea Martinez Salgado 1902343
 - Leandro Seyan Arakaki: 1901703
-- Victoria Gomes de Oliveira
+- Victoria Gomes de Oliveira: 1901575
